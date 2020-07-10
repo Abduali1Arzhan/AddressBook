@@ -1,0 +1,5 @@
+module ContactsModule 
+
+ContactsListView 1.0 ContactsListView.qml
+ContactsListDelegate 1.0 ContactsListDelegate.qml
+ImageBubble 1.0 ImageBubble.qml
